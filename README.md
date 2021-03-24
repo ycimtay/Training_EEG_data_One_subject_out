@@ -1,4 +1,6 @@
 # Training_EEG_data_One_subject_out
+Training code for one_subject_out_EEG_emotion recognition
+
 You can download sample dataAll and datapoints from : https://figshare.com/articles/dataset/SampleData/14272886
 
 Please cite this article if you use this code: 
