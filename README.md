@@ -1,6 +1,6 @@
 Dataset
 
-You can download sample dataAll and datapoints from : [https://figshare.com/articles/dataset/SampleData/14272886](https://figshare.com/articles/dataset/Dataset_EEG_data_and_Labels_/28727099)
+You can download the Data and Labels : [https://figshare.com/articles/dataset/SampleData/14272886](https://figshare.com/articles/dataset/Dataset_EEG_data_and_Labels_/28727099)
 
 Please cite the following articles if you use this code:
 
